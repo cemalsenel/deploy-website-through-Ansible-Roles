@@ -1,0 +1,8 @@
+---
+# vars file for react
+
+
+react_home: /home/ec2-user/ansible/ansible-project/react
+container_path: /home/ec2-user/react
+container_name: jimmyshan_react
+image_name: jimmyshan/react
